@@ -1,0 +1,52 @@
+body{
+    margin: 30px !important;
+    font-family: 'Rubik', sans-serif !important;
+}
+.photoJK {
+    border-width: 8px;
+    border-color: #FD6D22;
+    border-radius: 50%;
+    border-style: solid;
+    width: 150px;
+    height: 150px;
+    box-shadow: 
+    0 0 0 5px hsl(0, 0%, 80%);
+ 
+}
+#encabezado{
+    background-image: url("../img/portadaJohnKintero2.png");
+    background-size: 100%;
+    background-repeat: no-repeat;
+    width: 1854px;
+    height: 270px;
+
+}
+h2 {
+    font-family: 'Fira Sans', sans-serif;
+    color: #4E937A !important;
+}
+.fondo{
+    background-color:  #FD6D22 !important;
+}
+.icon{
+    animation: float 1.5s ease-out infinite;
+    color: black;
+    font-size: 80px;
+}
+.checkedO {
+    color:#FD6D22;
+}
+.checkedB {
+    color: rgb(11, 131, 179);
+}
+.checkedG {
+    color: #4E937A;
+}
+#competencias span{
+    font-size: 13px;
+}
+/**
+.middle > *  {
+    vertical-align: middle;
+}
+*/
