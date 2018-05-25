@@ -9,9 +9,9 @@ body{
     border-style: solid;
     width: 150px;
     height: 150px;
-    box-shadow: 
+    box-shadow:
     0 0 0 5px hsl(0, 0%, 80%);
- 
+
 }
 #encabezado{
     background-image: url("../img/portadaJohnKintero2.png");
@@ -66,4 +66,8 @@ h2 {
   #contentDeveloper{
     background-color:#FD6D22;
     padding: 20px 20px 20px 20px;
+  }
+  #divfloat{
+    width: 50%;
+    float: left !important;
   }
