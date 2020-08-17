@@ -1,2 +1,2 @@
 # WPJohnJairoQuintero
-https://johnkintero.github.io/WPJohnJairoQuintero/
+https://johnquintero.github.io/WPJohnJairoQuintero/
